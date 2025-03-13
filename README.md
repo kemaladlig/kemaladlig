@@ -1,6 +1,6 @@
 # **Hi there! I'm Kemal Adlığ 👋**
 
-I'm a **Junior DevOps Engineer** with a strong foundation in **Web and Mobile App Development**. Passionate about automation, deployment processes, and cloud technologies, I’m actively learning DevOps tools like Jenkins, Docker, Kubernetes, and cloud platforms to optimize workflows and enhance system scalability. I enjoy working on both the development and operational side of applications to build efficient, scalable systems.
+I'm a **Junior DevOps Engineer** with a foundation in **Web and Mobile App Development**. Passionate about automation, deployment processes, and cloud technologies, I’m actively learning DevOps tools like Jenkins, Docker, Kubernetes, and cloud platforms to optimize workflows and enhance system scalability. I enjoy working on both the development and operational side of applications to build efficient, scalable systems.
 
 ## **🌱 Skills & Technologies**
 - **Programming Languages**: JavaScript, Kotlin, Java, Python, C, C#
@@ -21,7 +21,7 @@ I'm a **Junior DevOps Engineer** with a strong foundation in **Web and Mobile Ap
 - Developed a **Flutter** mobile application for **Birfen Elektrik**, enabling **real-time control** and monitoring of a robotic system. This allowed me to merge my interests in **mobile development** and **robotics**.
 
 ## **💻 Personal Projects & DevOps Experience**
-- **Kubectl Commands Learning Tool**: Developed a web application that searches and displays Kubernetes commands using **Node.js**, **React.js**, and **MongoDB**. This project helped me build hands-on experience with web development, containerization with Docker, and Kubernetes for container orchestration. I also integrated Jenkins to automate testing, building, and deployment processes.
+- **Kubectl Commands Learning Tool**: Developed a web application that searches and displays Kubernetes commands using **Node.js**, **React.js**, and **MongoDB**. This project helped me build hands-on experience with web development.
 
 - **Next.js Project**: Built a basic **Next.js** application to practice CI/CD processes. Containerized the app with Docker, created efficient images for deployment, and integrated **Jenkins** for continuous integration and deployment. This project helped me automate testing and deployment workflows while gaining experience with Docker and Jenkins.
 
