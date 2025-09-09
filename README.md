@@ -7,7 +7,7 @@ I'm a **Junior DevOps Engineer** with a foundation in **Web and Mobile App Devel
 - **Web Development**: Node.js, Express, React.js, Next.js, MongoDB, Axios
 - **Mobile Development**: Android (Kotlin, Jetpack Compose, Version Catalog, MVVM), Flutter (Dart)
 - **DevOps Tools & Automation**: Docker, Jenkins, Kubernetes, GitHub Actions, Azure DevOps
-- **Cloud Platforms**: Google Cloud
+- **Cloud Platforms**: Google Cloud, Huawei Cloud
 - **Databases**: MongoDB, Firebase, SQL, Room
 - **Other**: Git, GitHub, Linux, Bash Scripting
 
