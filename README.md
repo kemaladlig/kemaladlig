@@ -1,34 +1,85 @@
-# **Hi there! I'm Kemal Adlığ 👋**
+# Hi there! I'm Kemal Adlığ 👋
 
-I'm a **Junior DevOps Engineer** with a foundation in **Web and Mobile App Development**. Passionate about automation, deployment processes, and cloud technologies, I’m actively learning DevOps tools like Jenkins, Docker, Kubernetes, and cloud platforms to optimize workflows and enhance system scalability. I enjoy working on both the development and operational side of applications to build efficient, scalable systems.
+## Mobile Application Developer & DevOps Engineer
 
-## **🌱 Skills & Technologies**
-- **Programming Languages**: JavaScript, Kotlin, Java, Python, C, C#
-- **Web Development**: Node.js, Express, React.js, Next.js, MongoDB, Axios
-- **Mobile Development**: Android (Kotlin, Jetpack Compose, Version Catalog, MVVM), Flutter (Dart)
-- **DevOps Tools & Automation**: Docker, Jenkins, Kubernetes, GitHub Actions, Azure DevOps
-- **Cloud Platforms**: Google Cloud, Huawei Cloud
-- **Databases**: MongoDB, Firebase, SQL, Room
-- **Other**: Git, GitHub, Linux, Bash Scripting
+I am a professional focused on bridging the gap between development and operations. I specialize in building scalable mobile applications using **React Native (Expo)** and **Kotlin**, while ensuring their reliability and performance through robust DevOps practices involving **Docker, Kubernetes, and CI/CD automation**.
 
-## **🌟 Highlights of My Journey**
-- **3rd Place** in the **Huawei Coding Marathon 2022** (Mobile Services category) for a **Kotlin-based language learning app** that translates objects seen through the camera. This helped me apply advanced Kotlin features in a real-world project.
+---
 
-- Authored a post for **Huawei Developers Medium Blog** on **Lambda expressions** and **Higher-Order functions** in Kotlin. Passionate about sharing knowledge, I enjoy contributing to the developer community. [Read it here!](https://medium.com/huawei-developers/kotlin-higher-order-functions-and-lambda-expressions-b799b42e8158)
+## 🚀 Technical Expertise
 
-- Contributed to a **web application project** during my internship at **Huawei R&D Center**, where I processed and displayed statistical data using **Node.js**, **Express**, and **MongoDB**. I also implemented **user authentication** and designed the **user interface**, ensuring smooth integration between the front-end and back-end components.
+### 📱 Mobile Development
+- React Native (Expo)  
+- Kotlin (Jetpack Compose)  
+- Flutter (Dart)  
+- Clean Architecture, MVVM  
 
-- Developed a **Flutter** mobile application for **Birfen Elektrik**, enabling **real-time control** and monitoring of a robotic system. This allowed me to merge my interests in **mobile development** and **robotics**.
+### ☁️ DevOps & Cloud
+- Docker  
+- Kubernetes (GKE, Huawei CCE)  
+- Jenkins, GitHub Actions  
+- Terraform (IaC)  
+- Linux (Bash)  
+- Google Cloud Platform, Huawei Cloud  
 
-## **💻 Personal Projects & DevOps Experience**
-- **Kubectl Commands Learning Tool**: Developed a web application that searches and displays Kubernetes commands using **Node.js**, **React.js**, and **MongoDB**. This project helped me build hands-on experience with web development.
+### 🧠 Backend & Data
+- Node.js (Express)  
+- RESTful APIs  
+- Firebase (Firestore, FCM)  
+- MongoDB, PostgreSQL  
+- Elasticsearch  
 
-- **Next.js Project**: Built a basic **Next.js** application to practice CI/CD processes. Containerized the app with Docker, created efficient images for deployment, and integrated **Jenkins** for continuous integration and deployment. This project helped me automate testing and deployment workflows while gaining experience with Docker and Jenkins.
+### 🛠 Tools
+- Git  
+- Postman  
+- Android Studio  
+- App Store Connect  
+- Google Play Console  
 
-## **💬 Let's Connect!**
-Feel free to reach out if you'd like to collaborate or discuss DevOps, Android development, web development, or any technology!
+---
 
-- [LinkedIn](https://linkedin.com/in/kemaladlig)  
-- Email: [kemaladligdev@gmail.com](mailto:1kemaladlig@gmail.com)
+## 🌟 Key Highlights & Projects
 
-Thanks for visiting my profile! I’m always open to new opportunities and exciting projects!
+### 📱 Rahmet Eli (Mobile App)
+- Developed and published a cross-platform mobile application on the **Apple App Store** and **Google Play Store**.  
+- Built with **React Native** and **Expo**, integrating **Firestore** for real-time data and **RESTful APIs** for location-based services.
+
+### ☸️ Kubernetes Search Engine (Full-Stack & DevOps)
+- Developed a tool for searching and learning `kubectl` commands using **React.js** and **Node.js**.  
+- Containerized the application with **Docker** and deployed it on **Google Kubernetes Engine (GKE)** via automated **GitHub Actions** pipelines.
+
+### 🤖 HMS ML Object Recognition (Native Android)
+- **3rd Place Winner – Huawei Coding Marathon 2022**.  
+- Built a native Android application using **Kotlin** and **HMS Machine Learning Kits** for real-time object translation and recognition.
+
+---
+
+## 💼 Professional Snapshot
+
+- **Huawei R&D Center**  
+  Worked as an R&D Engineer focusing on **Jenkins-based CI/CD pipelines**, containerization on **Huawei Cloud CCE**, and **HMS integrations**.
+
+- **Birfen Elektrik Elektronik**  
+  Developed **Flutter-based** solutions for real-time robotic system communication and control.
+
+- **Certifications**  
+  - Huawei Cloud **HCCDA – Cloud Native** (2025)  
+  - Huawei Cloud **HCCDP – Solution Architecture** (2025)
+
+---
+
+## ✍️ Community & Writing
+
+I enjoy sharing knowledge with the developer community.  
+📖 **Article:** *Kotlin: Higher-Order Functions and Lambda Expressions*  
+Published on the **Huawei Developers Medium Blog**.
+
+---
+
+## 📫 Let's Connect!
+
+- **LinkedIn:** https://linkedin.com/in/kemaladlig  
+- **GitHub:** https://github.com/kemaladlig  
+- **Email:** kemaladligdev@gmail.com  
+
+> *“Optimizing workflows and building scalable systems, one commit at a time.”*
