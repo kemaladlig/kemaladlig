@@ -1,85 +1,63 @@
 # Hi there! I'm Kemal Adlığ 👋
 
-## Mobile Application Developer & DevOps Engineer
+## Full-Stack Engineer & Cloud Architect
 
-I am a professional focused on bridging the gap between development and operations. I specialize in building scalable mobile applications using **React Native (Expo)** and **Kotlin**, while ensuring their reliability and performance through robust DevOps practices involving **Docker, Kubernetes, and CI/CD automation**.
+I am an **Independent Full-Stack Engineer** and **AI-Native Developer** bridging the gap between high-performance mobile applications and scalable cloud infrastructure.
 
----
+I specialize in orchestrating **Agentic Workflows** to build production-grade software at high velocity, combining the discipline of enterprise DevOps with the speed of modern mobile development.
 
-## 🚀 Technical Expertise
+## 🚀 The "AI-Native" Edge
 
-### 📱 Mobile Development
-- React Native (Expo)  
-- Kotlin (Jetpack Compose)  
-- Flutter (Dart)  
-- Clean Architecture, MVVM  
+I don't just write code; I orchestrate systems. By leveraging proprietary **AI-Agent workflows** and structured context maps (`PROJECT_MAP.md`), I architect and ship complex, full-stack products as a solo developer with the output capacity of a small team.
 
-### ☁️ DevOps & Cloud
-- Docker  
-- Kubernetes (GKE, Huawei CCE)  
-- Jenkins, GitHub Actions  
-- Terraform (IaC)  
-- Linux (Bash)  
-- Google Cloud Platform, Huawei Cloud  
+## 🛠 Tech Stack
 
-### 🧠 Backend & Data
-- Node.js (Express)  
-- RESTful APIs  
-- Firebase (Firestore, FCM)  
-- MongoDB, PostgreSQL  
-- Elasticsearch  
+| Domain | Technologies |
+| :--- | :--- |
+| **📱 Mobile** | **React Native (Expo)**, **Kotlin (Jetpack Compose)**, Flutter, TypeScript |
+| **☁️ Cloud & DevOps** | **Kubernetes (GKE, CCE)**, **Docker**, Nginx Ingress, GitHub Actions, Terraform |
+| **🧠 Backend** | **Node.js**, **Firebase (Functions, Firestore)**, Supabase (Edge Functions), PostgreSQL |
+| **🤖 AI & Arch** | LLM Integration, Agentic Workflows, Clean Architecture, MVVM |
 
-### 🛠 Tools
-- Git  
-- Postman  
-- Android Studio  
-- App Store Connect  
-- Google Play Console  
+## 🌟 Featured Projects
 
----
+### 📱 [Rahmet Eli](https://link-to-app-if-available) — *Production "Super-App"*
+*Live on App Store & Google Play*
+* **Architecture:** Cross-platform React Native app with a Serverless Firebase backend.
+* **Key Tech:** Expo Router, Real-time Firestore Sync, Cloud Functions, Sensor Fusion (Compass/Magnetometer).
+* **Impact:** Architected end-to-end, managing strict Store compliance and delivering complex features like geolocation-based services and push notifications to **100+ active users**.
 
-## 🌟 Key Highlights & Projects
+### ⚔️ KPSS Arena — *Gamified Education Platform*
+*Currently in Closed Beta*
+* **Architecture:** Real-time competitive quiz platform built on Supabase.
+* **Innovation:** Engineered a **"Ghost Opponent" system** using Edge Functions to simulate live multiplayer matches by replaying historical user session data.
+* **Stack:** React Native, Zustand, Supabase Auth/DB.
 
-### 📱 Rahmet Eli (Mobile App)
-- Developed and published a cross-platform mobile application on the **Apple App Store** and **Google Play Store**.  
-- Built with **React Native** and **Expo**, integrating **Firestore** for real-time data and **RESTful APIs** for location-based services.
+### ☸️ K8s Search Tool — *Cloud Infrastructure*
+* **Architecture:** Full-stack visualization tool for `kubectl` commands.
+* **DevOps:** Containerized with Docker and deployed to a **Google Kubernetes Engine (GKE)** cluster.
+* **Pipeline:** Automated CI/CD via **GitHub Actions**, handling Ingress routing (Nginx) and secure HTTPS termination.
 
-### ☸️ Kubernetes Search Engine (Full-Stack & DevOps)
-- Developed a tool for searching and learning `kubectl` commands using **React.js** and **Node.js**.  
-- Containerized the application with **Docker** and deployed it on **Google Kubernetes Engine (GKE)** via automated **GitHub Actions** pipelines.
-
-### 🤖 HMS ML Object Recognition (Native Android)
-- **3rd Place Winner – Huawei Coding Marathon 2022**.  
-- Built a native Android application using **Kotlin** and **HMS Machine Learning Kits** for real-time object translation and recognition.
-
----
+### 🤖 Huawei ML Translation — *Native Android*
+* **Award:** 🥉 **3rd Place Winner – Huawei Coding Marathon 2022**
+* **Tech:** Native Kotlin app integrating **Huawei ML Kits** and **Real-time Translation SDKs** for on-device object recognition and language translation.
 
 ## 💼 Professional Snapshot
 
-- **Huawei R&D Center**  
-  Worked as an R&D Engineer focusing on **Jenkins-based CI/CD pipelines**, containerization on **Huawei Cloud CCE**, and **HMS integrations**.
+* **Independent Consultant:** Delivering production-grade mobile & cloud architectures for clients.
+* **Huawei R&D (Alumni):** Built enterprise data visualization tools handling **50k+ rows** of analytics data using Node.js/MongoDB.
+* **Certifications:**
+    * Huawei Cloud **HCCDP – Solution Architecture** (2025)
+    * Huawei Cloud **HCCDA – Cloud Native** (2025)
 
-- **Birfen Elektrik Elektronik**  
-  Developed **Flutter-based** solutions for real-time robotic system communication and control.
+## ✍️ Community
 
-- **Certifications**  
-  - Huawei Cloud **HCCDA – Cloud Native** (2025)  
-  - Huawei Cloud **HCCDP – Solution Architecture** (2025)
+I write about modern engineering practices and Kotlin.
+📖 **Article:** *Kotlin: Higher-Order Functions and Lambda Expressions* (Published on Huawei Developers Medium Blog)
 
----
+## 📫 Connect
 
-## ✍️ Community & Writing
+* **LinkedIn:** [linkedin.com/in/kemaladlig](https://linkedin.com/in/kemaladlig)
+* **Email:** kemaladligdev@gmail.com
 
-I enjoy sharing knowledge with the developer community.  
-📖 **Article:** *Kotlin: Higher-Order Functions and Lambda Expressions*  
-Published on the **Huawei Developers Medium Blog**.
-
----
-
-## 📫 Let's Connect!
-
-- **LinkedIn:** https://linkedin.com/in/kemaladlig  
-- **GitHub:** https://github.com/kemaladlig  
-- **Email:** kemaladligdev@gmail.com  
-
-> *“Optimizing workflows and building scalable systems, one commit at a time.”*
+> *"Optimizing workflows and building scalable systems, one commit at a time."*
