@@ -40,7 +40,7 @@ and ONNX Runtime, which returns pixel bounding boxes to place the labels. The ov
 `WS_EX_TRANSPARENT | WS_EX_LAYERED` styles, so it never intercepts a click. A NumPy screen-diff
 engine (128×72 downsample, under a millisecond) skips OCR entirely when the frame has not changed.
 
-### Brutal Party
+### [Brutal Party](https://github.com/kemaladlig/brutal-party)
 
 Four-player party mini-games in one lightweight app, with 15 game engines. Three networking modes
 come out of the same codebase: local play, LAN over a host WebSocket, and WebRTC peer-to-peer
@@ -55,7 +55,7 @@ tax number, and the VAT split out of crumpled or badly lit photos, falling back 
 quota limit never fails an upload. It replaces roughly a minute of manual entry per receipt with
 about two seconds.
 
-### VaultNote
+### [VaultNote](https://github.com/kemaladlig/vault-note)
 
 Zero-server, end-to-end encrypted notes app where data lives in the user's own Google Drive
 `appDataFolder`, so only ciphertext leaves the device. WebCrypto AES-256-GCM with HKDF, Argon2id
@@ -79,8 +79,10 @@ Quran reader, and content feeds. Built with Expo and Firebase Cloud Functions.
   MongoDB, and integrated Huawei Mobile Services kits into production Android apps.
 - Huawei Cloud HCCDP (Solution Architecture) and HCCDA (Cloud Native), 2025.
 - 3rd place, Huawei Coding Marathon 2022, nationwide mobile-services category.
-- Also built: KpssArena, ATA Akademi, KubectlCommandTool (GKE, Docker, CI/CD), TraceX, EdgeBar,
-  Exam Timer, Cloud Path.
+- Also built: KpssArena, ATA Akademi, [KubectlCommandTool](https://github.com/kemaladlig/KubectlCommandTool)
+  (GKE, Docker, CI/CD), [TraceX](https://github.com/kemaladlig/tracex),
+  [EdgeBar](https://github.com/kemaladlig/edgebar), [Exam Timer](https://github.com/kemaladlig/exam-timer),
+  Cloud Path.
 
 ## Writing
 
