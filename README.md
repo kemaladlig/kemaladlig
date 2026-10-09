@@ -2,10 +2,7 @@
 
 ## AI-Native Product Engineer · Full-Stack · Mobile · Cloud
 
-I ship production software on my own by orchestrating AI agent workflows. In the last two years
-that has meant a published cross-platform mobile app, an AI document-processing SaaS for accounting
-firms, an MCP server that gives coding agents semantic code search, and a real-time multiplayer
-game platform.
+I ship production software on my own by orchestrating AI agent workflows. In the last two years that has meant a published cross-platform mobile app, an MCP server that gives coding agents semantic code search, a real-time multiplayer game platform, and a desktop overlay that translates full-screen games.
 
 The work I am actually good at is the part that does not delegate well: writing the spec files
 agents build from, building MCP tooling, running evaluation harnesses so LLM output gets measured,
@@ -48,14 +45,6 @@ come out of the same codebase: local play, LAN over a host WebSocket, and WebRTC
 online with Supabase handling only discovery and signaling. The CI gate runs 453 unit tests, a
 15-game device-independence check, and a Playwright engine matrix on every push.
 
-### FişAktar
-
-Turkish SaaS that reads receipts and invoices arriving through WhatsApp and the web, then exports
-balanced journal entries in the formats Luca and Zirve accept. Gemini Vision pulls the date, vendor,
-tax number, and the VAT split out of crumpled or badly lit photos, falling back across models so a
-quota limit never fails an upload. It replaces roughly a minute of manual entry per receipt with
-about two seconds.
-
 ### [VaultNote](https://github.com/kemaladlig/vault-note)
 
 Zero-server, end-to-end encrypted notes app where data lives in the user's own Google Drive
@@ -80,7 +69,7 @@ Quran reader, and content feeds. Built with Expo and Firebase Cloud Functions.
   MongoDB, and integrated Huawei Mobile Services kits into production Android apps.
 - Huawei Cloud HCCDP (Solution Architecture), HCCDA (Cloud Native) and HCCDA (Tech Essentials), 2025.
 - 3rd place, Huawei Coding Marathon 2022, nationwide mobile-services category.
-- Also built: KpssArena, ATA Akademi, [KubectlCommandTool](https://github.com/kemaladlig/KubectlCommandTool)
+- Also built: FişAktar, KpssArena, ATA Akademi, [KubectlCommandTool](https://github.com/kemaladlig/KubectlCommandTool)
   (GKE, Docker, CI/CD), [TraceX](https://github.com/kemaladlig/tracex),
   [EdgeBar](https://github.com/kemaladlig/edgebar), [Exam Timer](https://github.com/kemaladlig/exam-timer),
   Cloud Path.
