@@ -15,11 +15,12 @@ and handling the cryptography, real-time networking, and CI plumbing underneath.
 
 | Domain | Technologies |
 | --- | --- |
-| AI and agents | Multi-agent orchestration (Claude Code, Codex, OpenCode), context engineering (`AGENTS.md` / `PROJECT_MAP.md`), MCP server development, evaluation harnesses (recall@k, MRR), RAG (Ollama, EmbeddingGemma), LLM integration (Gemini Vision) |
-| Mobile and web | React 19, React Native (Expo), Next.js, Vite, Tailwind CSS v4, Zustand, Capacitor, PWA, Flutter |
-| Desktop and systems | Python, PyQt6, ONNX Runtime, NumPy, Win32 window APIs, Kotlin / Jetpack Compose |
-| Backend and data | Node.js, Bun, Supabase (Postgres, RLS, Edge Functions), Firebase, MongoDB, SQLite / Drizzle, WebSocket, WebRTC |
-| Cloud and DevOps | Docker, Kubernetes (GKE / Huawei CCE), GitHub Actions, Nginx Ingress, Terraform |
+| Architecture & AI | Clean Architecture · MVVM · System Design · Multi-agent orchestration (Claude Code, Codex, OpenCode) · Context engineering (AGENTS.md / PROJECT_MAP.md specs) · MCP server development · Evaluation harnesses (recall@k, MRR) · RAG & semantic search (Ollama, EmbeddingGemma) · LLM integration (Gemini Vision, OpenAI) |
+| Languages | TypeScript, JavaScript, Python, Kotlin, Dart, SQL, HTML/CSS |
+| Frontend & Mobile | React 19, React Native (Expo), Next.js, Vite, Tailwind CSS v4, Zustand, Kotlin / Jetpack Compose, Flutter, Capacitor, PWA |
+| Desktop & Systems | PyQt6, ONNX Runtime (on-device OCR), NumPy, Win32 extended window styles, multithreaded workers |
+| Backend & Data | Node.js, Bun, Supabase (Postgres, Row Level Security, Edge Functions), Firebase (Firestore, Cloud Functions), MongoDB, SQLite / Drizzle ORM, REST, WebSocket, WebRTC |
+| Cloud & DevOps | Docker, Kubernetes (GKE / Huawei CCE), GitHub Actions, Nginx Ingress, Terraform, Vercel |
 | Testing | Vitest, Jest, Playwright, Node test runner, CI quality gates |
 
 ## Projects
