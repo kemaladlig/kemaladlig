@@ -16,9 +16,9 @@ and handling the cryptography, real-time networking, and CI plumbing underneath.
 | Domain | Technologies |
 | --- | --- |
 | AI and agents | Multi-agent orchestration (Claude Code, Codex, OpenCode), context engineering (`AGENTS.md` / `PROJECT_MAP.md`), MCP server development, evaluation harnesses (recall@k, MRR), RAG (Ollama, EmbeddingGemma), LLM integration (Gemini Vision) |
-| Mobile and web | React 19, React Native (Expo), Next.js, Vite, Tailwind CSS v4, Zustand, Capacitor, PWA |
+| Mobile and web | React 19, React Native (Expo), Next.js, Vite, Tailwind CSS v4, Zustand, Capacitor, PWA, Flutter |
 | Desktop and systems | Python, PyQt6, ONNX Runtime, NumPy, Win32 window APIs, Kotlin / Jetpack Compose |
-| Backend and data | Node.js, Bun, Supabase (Postgres, RLS, Edge Functions), Firebase, SQLite / Drizzle, WebSocket, WebRTC |
+| Backend and data | Node.js, Bun, Supabase (Postgres, RLS, Edge Functions), Firebase, MongoDB, SQLite / Drizzle, WebSocket, WebRTC |
 | Cloud and DevOps | Docker, Kubernetes (GKE / Huawei CCE), GitHub Actions, Nginx Ingress, Terraform |
 | Testing | Vitest, Jest, Playwright, Node test runner, CI quality gates |
 
@@ -77,7 +77,7 @@ Quran reader, and content feeds. Built with Expo and Firebase Cloud Functions.
 
 - Huawei R&D Center (alumni). Built analytics tooling that processed 50,000+ rows with Node.js and
   MongoDB, and integrated Huawei Mobile Services kits into production Android apps.
-- Huawei Cloud HCCDP (Solution Architecture) and HCCDA (Cloud Native), 2025.
+- Huawei Cloud HCCDP (Solution Architecture), HCCDA (Cloud Native) and HCCDA (Tech Essentials), 2025.
 - 3rd place, Huawei Coding Marathon 2022, nationwide mobile-services category.
 - Also built: KpssArena, ATA Akademi, [KubectlCommandTool](https://github.com/kemaladlig/KubectlCommandTool)
   (GKE, Docker, CI/CD), [TraceX](https://github.com/kemaladlig/tracex),
